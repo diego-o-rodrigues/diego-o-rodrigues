@@ -32,3 +32,9 @@ Fique à vontade para explorar meu portfólio, deixar uma sugestão ou até cola
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diego-o-rodrigues/diego-o-rodrigues/output/pacman-contribution-graph.svg">
 </picture>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/diego-o-rodrigues/diego-o-rodrigues/output/snake.svg" alt="Snake animation" />
+
+###
+
