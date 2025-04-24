@@ -24,13 +24,16 @@ Fique à vontade para explorar meu portfólio, deixar uma sugestão ou até cola
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diego-o-rodrigues&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="120" alt="languages graph"  />
 </div>
 
-###
-
+<!--
+<br clear="both">
+-->
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diego-o-rodrigues/diego-o-rodrigues/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diego-o-rodrigues/diego-o-rodrigues/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diego-o-rodrigues/diego-o-rodrigues/output/pacman-contribution-graph.svg">
 </picture>
+-->
 
 <br clear="both">
 
